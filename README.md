@@ -1,3 +1,11 @@
+step1: Install in your computer.
+step2: clone this repo:   git clone https://github.com/Pavan-kalyan99/Basic_form.git
+step3: move to correct file : cd Basic_form
+step4 : Install Dependencies : npm install
+step5 : Run the Development Server : npm run dev
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

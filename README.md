@@ -1,4 +1,4 @@
-step1: Install in your computer.</br>
+step1: Install git  in your computer.</br>
 step2: clone this repo:   git clone https://github.com/Pavan-kalyan99/Basic_form.git </br>
 step3: move to correct file : cd Basic_form  </br>
 step4 : Install Dependencies : npm install  </br>
